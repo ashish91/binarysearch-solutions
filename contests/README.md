@@ -1,5 +1,13 @@
 # Weekly Contests
 
+## Weekly Contest 55
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Easy | [Insert Into Linked List](https://binarysearch.com/contest/Weekly-Contest-55-ftH85nxSmP?questionsetIndex=0) | [Py](./weekly-contest-55/insert-into-linked-list.py) |
+| Medium | [Longest Matrix Path Length](https://binarysearch.com/contest/Weekly-Contest-55-ftH85nxSmP?questionsetIndex=1) | [Py](./weekly-contest-55/longest-matrix-path-length.py) |
+| Medium | [Subtree with Maximum Value](https://binarysearch.com/contest/Weekly-Contest-55-ftH85nxSmP?questionsetIndex=2) | [Py](./weekly-contest-55/subtree-with-maximum-value.py) |
+| Hard | [Ticket Order](https://binarysearch.com/contest/Weekly-Contest-55-ftH85nxSmP?questionsetIndex=3) | [Py](./weekly-contest-55/ticket-order.py) |
+
 ## Weekly Contest 54
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
