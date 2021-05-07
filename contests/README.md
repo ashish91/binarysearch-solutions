@@ -1,5 +1,13 @@
 # Weekly Contests
 
+## Weekly Contest 56
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Easy | [Pair and Triples](https://binarysearch.com/contest/Weekly-Contest-56-ShYsIn4fyT?questionsetIndex=0) | [Py](./weekly-contest-56/01-pair-and-triples.py) |
+| Medium | [Find Local Peaks Sequel](https://binarysearch.com/contest/Weekly-Contest-56-ShYsIn4fyT?questionsetIndex=1) | [Py](./weekly-contest-56/02-find-local-peaks-sequel.py) |
+| Medium | [Longest Prefix Sequence](https://binarysearch.com/contest/Weekly-Contest-56-ShYsIn4fyT?questionsetIndex=2) | [Py](./weekly-contest-56/03-longest-prefix-sequence.py) |
+| Hard | [Longest Arithmetic Sequence Tree Path](https://binarysearch.com/contest/Weekly-Contest-56-ShYsIn4fyT?questionsetIndex=3) | [Py](./weekly-contest-56/04-longest-arithmetic-sequence-tree-path.py) |
+
 ## Weekly Contest 55
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
