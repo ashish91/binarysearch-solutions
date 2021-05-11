@@ -3,9 +3,9 @@ This repo consists solutions to https://binarysearch.com. If you've not tried I 
 
 ## Solutions for Weekly Contests
 
-- [Weekly Contest 56](.contests/weekly-contest-56)
-- [Weekly Contest 55](.contests/weekly-contest-55)
-- [Weekly Contest 54](.contests/weekly-contest-54)
+- [Weekly Contest 56](./contests/weekly-contest-56)
+- [Weekly Contest 55](./contests/weekly-contest-55)
+- [Weekly Contest 54](./contests/weekly-contest-54)
 
 ## Solutions for Top * Problems
 

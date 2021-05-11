@@ -6,10 +6,20 @@
 | Medium | [Rain Catcher](https://binarysearch.com/problems/Rain-Catcher) | [Py](./arrays/rain-catcher.py) |
 | Medium | [Special Product List](https://binarysearch.com/problems/Special-Product-List) | [Py](./arrays/special-product-list.py) |
 
+## Number of Islands
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Number of Islands](https://binarysearch.com/problems/Number-of-Islands) | [Py](./graph/number-of-islands.py) |
+
 ## Stack
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Balanced Binary Sequel](https://binarysearch.com/problems/Balanced-Brackets-Sequel) | [Py](./stack/balanced-binary-sequel.py) |
+
+## String
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Roman Numeral to Integer](https://binarysearch.com/problems/Roman-Numeral-to-Integer) | [Py](./string/roman-numeral-to-integer.py) |
 
 ## Trees
 | Difficulty | Title | Solution |

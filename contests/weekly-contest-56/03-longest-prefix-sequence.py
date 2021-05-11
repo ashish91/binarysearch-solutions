@@ -13,8 +13,40 @@
 # Solution 1
 # ----------
 #
+# Using DP with hash table
 #
+# n - No of words
+# m - Max characters per word
 #
+# Sorting will take nlogn and comparison of two strings will take m
+#
+# Time Complexity: O(nmlog(n))
+# Space Complexity: O(nm)
+class Solution:
+  def solve(self, words):
+    words.sort()
+    dp = defaultdict(int)
+
+    lps = 0
+    for word in words:
+      dp[word] = dp[word[:-1]] + 1
+      lps = max(lps, dp[word])
+
+    return lps
+
+# Solution 2
+# ----------
+#
+# Using Trie
+#
+# n - No of words
+# m - Max characters per word
+#
+# O(nm) comes from Trie since total no of nodes will be total no of chars
+# Insert will take that much time since each char needs to be added
+#
+# Time Complexity: O(nmlog(n)+O(nm))
+# Space Complexity: O(nm)
 class TrieNode:
   def __init__(self):
     self.children = defaultdict(TrieNode)
