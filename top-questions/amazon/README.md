@@ -9,6 +9,7 @@
 ## Number of Islands
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Medium | [Friends Groups](https://binarysearch.com/problems/Friends-Groups) | [Py](./graph/friends-groups.py) |
 | Medium | [Number of Islands](https://binarysearch.com/problems/Number-of-Islands) | [Py](./graph/number-of-islands.py) |
 
 ## Stack
